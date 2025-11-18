@@ -13,9 +13,8 @@ be provided to the agent (see [src/tools.ts](src/tools.ts))
 
 ## Running the demo
 
-1. Install dependencies in the root (`npm install`)
-2. Navigate to `examples/codemode/` (that's here)
-3. Build dependencies in the root (`npm run build`)
-4. Create a `.env` file with your OpenAI API key (see `.env.example`)
-5. Run `npm start` to start the development server
-6. Visit `http://localhost:5173` to see the demo
+1. Install dependencies (`npm install`)
+2. Create a `.env` file with your OpenAI API key (see `.env.example`)
+3. Run `npm start` to start the development server
+4. Visit `http://localhost:5173` to see the demo
+5. Try asking about the weather, e.g. "How's the weather today?"
