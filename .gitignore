@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# build output
+dist
+*.log
+
+# environment variables and local overrides
+.env
+.env.*
+!.env.example
+
+# misc
+.DS_Store
+.wrangler/
