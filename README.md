@@ -9,7 +9,7 @@ https://github.com/cloudflare/agents/tree/main/examples/codemode
 It demonstrates how you can define a custom tool to
 be provided to the agent (see [src/tools.ts](src/tools.ts))
 
-<img width="1481" height="810" alt="image" src="https://github.com/user-attachments/assets/36656642-1b0f-46d9-868b-f13c6e127b5e" />
+<img width="3024" height="1634" alt="Screenshot of Code Mode demo" src="https://github.com/user-attachments/assets/53f06c50-df7a-40e6-9e1c-b788049f8637" />
 
 ## Running the Demo
 
