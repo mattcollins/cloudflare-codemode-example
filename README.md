@@ -23,3 +23,5 @@ be provided to the agent (see [src/tools.ts](src/tools.ts))
 
 Here's a sequence diagram showing how Code Mode works.
 <img width="2060" height="1040" alt="cloudflare-codemode-sequence-diagram" src="https://github.com/user-attachments/assets/204210d9-089a-46c1-9718-6f78cdffd593" />
+
+You may also like to read [this blog post about Code Mode](https://www.mattcollins.net/2025/11/first-impressions-of-cloudflares-code-mode).
